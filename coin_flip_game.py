@@ -1,5 +1,4 @@
 import random
-from tkinter import Y
 
 def coin_flip():
     player_counter = 0
